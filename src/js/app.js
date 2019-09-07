@@ -1,3 +1,4 @@
+import '../css/main.css'
 import {secretParagraph, secretButton} from "./dom-loader";
 
 var showSecret = false;
